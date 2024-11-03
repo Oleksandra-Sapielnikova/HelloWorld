@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class A343_Zinsen {
     public static void main(String[] args){
 
-        //eingebung   asader variablen
+        //eingebung   der variablen
         double anfangsKapital, verzinstesKapital;
         int jahre, zinsen;
 

@@ -21,7 +21,7 @@ public class A342_Spielbank {
         System.out.print("Wie viel 100 euro Chips haben Sie: ");
         chips100 = tastatur.nextInt();
 
-        //  assberechnen
+        //berechnen
         mengeChips5 = chips5 * 5;
         mengeChips10 = chips10 * 10;
         mengeChips20 = chips20 * 20;

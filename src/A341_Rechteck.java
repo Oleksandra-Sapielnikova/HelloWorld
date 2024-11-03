@@ -26,7 +26,7 @@ public class  A341_Rechteck {
         umfang = (seiteA + seiteB) * 2;
         flaeche = seiteA * seiteB;
 
-        // asxleerzeil
+        //leerzeil
         System.out.println();
 
         //ausgabe der ergebnisse
